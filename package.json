@@ -1,0 +1,22 @@
+{
+  "name": "01-modulo-workflow",
+  "version": "1.0.0",
+  "description": "Curso Certificação Bootstrap - Módulo Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "certificacao",
+    "bootstrap",
+    "modulo",
+    "workflow"
+  ],
+  "author": "Rafael Osaku",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
